@@ -1,0 +1,16 @@
+{
+  "production": {
+    "current": "3.5.10",
+    "minimum": "3.5.10",
+    "alert": "2020-12-22",
+    "mandatory": "2020-12-22",
+    "notes": ""
+  },
+  "beta": {
+    "current": "3.5.5",
+    "minimum": "3.5.5",
+    "alert": "2020-12-22",
+    "mandatory": "2020-12-22",
+    "notes": ""
+  }
+}
