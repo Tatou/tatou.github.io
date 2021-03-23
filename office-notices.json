@@ -2,7 +2,7 @@
   {
     "id": "23_03_2021_a",
     "title": "Maintenance in progress",
-    "message": "We are upgrading file storage system. Some of your files may disappear for a short period while these are migrated.",
+    "message": "We are upgrading the file storage system. File downloads will be unavailable for a short period while they are migrated. All other services will remain uninterrupted.",
     "variant": "info",
     "sticky": true
   }
