@@ -1,7 +1,9 @@
-{
-  "23_03_2021": {
+[
+  {
+    "id": "23_03_2021",
     "title": "Maintenance in progress",
     "message": "We are upgrading file storage system. Some of your files may disappear for a short period while these are migrated.",
+    "variant": "info",
     "sticky": true
-  }
-}
+  },
+]
