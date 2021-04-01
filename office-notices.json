@@ -1,9 +1,1 @@
-[
-  {
-    "id": "01_04_2021_activestorage",
-    "title": "Maintenance in progress",
-    "message": "We are currently upgrading the file storage system. File downloads may be unavailable for a short period while they are migrated. All other services remain uninterrupted.",
-    "sticky": true,
-    "variant": "info"
-  }
-]
+[]
