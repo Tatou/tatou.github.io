@@ -1,9 +1,9 @@
 {
   "production": {
-    "current": "3.5.10",
-    "minimum": "3.5.10",
-    "alert": "2021-01-15",
-    "mandatory": "2021-01-15",
+    "current": "3.6.12",
+    "minimum": "3.6.12",
+    "alert": "2021-07-01",
+    "mandatory": "2021-08-01",
     "notes": ""
   },
   "beta": {
