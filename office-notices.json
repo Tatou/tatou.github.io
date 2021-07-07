@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "07_07_2021",
+    "title": "Maintenance in progress",
+    "message": "Projects are being upgraded and will be complete by 11:00 NZST. All other services remain unaffected.",
+    "variant": "info"
+  }
+]
