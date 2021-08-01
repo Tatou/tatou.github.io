@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "02_08_2021",
+    "title": "Office updated",
+    "message": "Please remember to refresh your browser to update the latest version.",
+    "variant": "info"
+  }
+]
