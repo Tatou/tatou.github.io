@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "11_11_2021",
+    "title": "Office updated",
+    "message": "Now supporting real-time jobs and live attendance. Remember to refresh your browser to update.",
+    "variant": "info"
+  }
+]
