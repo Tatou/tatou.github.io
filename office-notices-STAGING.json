@@ -1,1 +1,10 @@
-[]
+
+   
+[
+  {
+    "id": "29_11_2021",
+    "title": "Office updated",
+    "message": "Date fields now support date range selection, along with other improvements. Please hard refresh your browser to update to the latest version.",
+    "variant": "info"
+  }
+]
