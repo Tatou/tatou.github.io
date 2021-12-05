@@ -1,0 +1,14 @@
+{
+  production: {
+    latest: '2.45.0',
+    notices: []
+  },
+  staging: {
+    latest: '2.46.0',
+    notices: []
+  },
+  dev: {
+    latest: '2.47.0',
+    notices: []
+  }
+}
