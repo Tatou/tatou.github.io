@@ -13,6 +13,14 @@
   },
   "local": {
     "latest": "0.0.0",
-    "notices": []
+    "notices": [
+      {
+        "id": "25_03_2021",
+        "title": "Maintenance in progress",
+        "message": "Scheduled system maintenance in progress.",
+        "variant": "info",
+        "sticky": false
+      }
+    ]
   }
 }
