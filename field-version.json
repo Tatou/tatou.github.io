@@ -1,7 +1,7 @@
 {
   "production": {
-    "current": "3.10.0",
-    "minimum": "3.10.0",
+    "current": "3.11.0",
+    "minimum": "3.11.0",
     "alert": "2021-11-29",
     "mandatory": "2022-01-10",
     "notes": ""
