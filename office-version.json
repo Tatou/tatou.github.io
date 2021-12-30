@@ -13,14 +13,6 @@
   },
   "local": {
     "latest": "2.47.0",
-    "notices": [
-      {
-        "id": "14_12_2021",
-        "title": "Test notice",
-        "message": "This is a test notice and can be ignored",
-        "variant": "info",
-        "sticky": false
-      }
-    ]
+    "notices": []
   }
 }
