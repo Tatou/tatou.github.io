@@ -7,10 +7,10 @@
     "latest": "2.49.0",
     "notices": [
       {
-        "id": "14_01-2022",
+        "id": "2022-01-14",
         "title": "Scheduled maintenance",
         "message": "Tatou will be offline for maintenance on Sunday morning, between 6-8am",
-        "variant": "info"
+        "variant": "warning"
       }
     ]
   },
