@@ -8,8 +8,8 @@
     "notices": [
       {
         "id": "2022-01-14",
-        "title": "Scheduled maintenance",
-        "message": "Tatou will be offline for maintenance between 6am-8am this Sunday 16th. Remember to sync data on your field app ahead of time so you can continue to work offline.",
+        "title": "Scheduled maintenance this Sunday:",
+        "message": "Tatou will be offline between 6am-8am this Sunday (16th). Remember to sync data on your field app ahead of time so you can continue to work offline.",
         "variant": "warning"
       }
     ]
