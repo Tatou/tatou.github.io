@@ -7,8 +7,8 @@
     "latest": "2.56.0",
     "notices": [      {
         "id": "2022-05-06",
-        "title": "Scheduled maintenance in progress:",
-        "message": "All functions remain online while we update cost calculations",
+        "title": "Maintenance in progress:",
+        "message": "We're migrating your historical cost calculations to give you more precise insights. During this time your historical job costs may appear outdated. All other functions are uninterrupted.",
         "variant": "warning"
       }
     ]
