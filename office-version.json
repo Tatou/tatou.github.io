@@ -1,14 +1,20 @@
 {
   "production": {
     "latest": "2.58.4",
-    "notices": []
+    "notices": [      {
+        "id": "2022-05-26",
+        "title": "Maintenance in progress:",
+        "message": "We're migrating your historical cost calculations to give you more insights. During this time your historical job costs may appear outdated. All other functions are uninterrupted.",
+        "variant": "warning"
+      }
+    ]
   },
   "staging": {
-    "latest": "2.56.0",
+    "latest": "2.59.0",
     "notices": [      {
-        "id": "2022-05-06",
+        "id": "2022-05-26",
         "title": "Maintenance in progress:",
-        "message": "We're migrating your historical cost calculations to give you more precise insights. During this time your historical job costs may appear outdated. All other functions are uninterrupted.",
+        "message": "We're migrating your historical cost calculations to give you more insights. During this time your historical job costs may appear outdated. All other functions are uninterrupted.",
         "variant": "warning"
       }
     ]
