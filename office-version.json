@@ -1,10 +1,10 @@
 {
   "production": {
-    "latest": "2.62.0",
+    "latest": "2.63.0",
     "notices": []
   },
   "staging": {
-    "latest": "2.59.0",
+    "latest": "2.63.0",
     "notices": []
   },
   "dev": {
