@@ -1,16 +1,16 @@
 {
   "production": {
     "latest": "2.64.1",
-    "notices": []
-  },
-  "staging": {
-    "latest": "2.63.0",
     "notices": [{
         "id": "2022-09-07",
         "title": "Maintenance tomorrow:",
-        "message": "Tātou Office and Field will be unavailable for 30 minutes from 6:00am tomorrow morning. Remember to download data in Tātou Field tonight to avoid any interruption in the field.",
+        "message": "Tātou will be undergoing maintenance for 30 minutes from 6:00am tomorrow morning. Remember to download data in Tātou Field tonight to avoid any interruption in the field.",
         "variant": "warning"
     }]
+  },
+  "staging": {
+    "latest": "2.63.0",
+    "notices": []
   },
   "dev": {
     "latest": "2.47.0",
