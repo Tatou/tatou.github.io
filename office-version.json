@@ -2,9 +2,9 @@
   "production": {
     "latest": "2.64.1",
     "notices": [{
-        "id": "2022-09-07",
-        "title": "Maintenance tomorrow:",
-        "message": "Tātou will be undergoing maintenance for 30 minutes from 6:00am tomorrow morning. Remember to download data in Tātou Field tonight to avoid any interruption in the field.",
+        "id": "2022-09-08",
+        "title": "Maintenance in progress:",
+        "message": "Tātou is undergoing maintenance; some functionality will be unavailable during this time. Please check back again later.",
         "variant": "warning"
     }]
   },
