@@ -5,7 +5,12 @@
   },
   "staging": {
     "latest": "2.63.0",
-    "notices": []
+    "notices": [{
+        "id": "2022-09-07",
+        "title": "Maintenance tomorrow:",
+        "message": "Tātou Office and Field will be unavailable for 30 minutes from 6:00am tomorrow morning. Remember to download data in Tātou Field tonight to avoid any interruption in the field.",
+        "variant": "warning"
+    }]
   },
   "dev": {
     "latest": "2.47.0",
