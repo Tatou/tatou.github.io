@@ -1,7 +1,12 @@
 {
   "production": {
     "latest": "2.65.0",
-    "notices": []
+    "notices": [{
+        "id": "2022-09-08",
+        "title": "Migration in progress:",
+        "message": "Tātou is undergoing maintenance and some functionality may not be available. Please check back later.",
+        "variant": "warning"
+    }]
   },
   "staging": {
     "latest": "2.63.0",
