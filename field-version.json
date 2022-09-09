@@ -1,9 +1,9 @@
 {
   "production": {
-    "current": "3.23.1",
-    "minimum": "3.23.1",
-    "alert": "2022-08-12",
-    "mandatory": "2022-09-12",
+    "current": "3.24.0",
+    "minimum": "3.24.0",
+    "alert": "2022-09-09",
+    "mandatory": "2022-10-09",
     "notes": ""
   },
   "beta": {
