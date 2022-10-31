@@ -9,7 +9,13 @@
   },
   "dev": {
     "latest": "2.63.0",
-    "notices": []
+    "notices": [{
+      "id": "2022-11-01",
+      "title": "Testing Environment:",
+      "message": "This environment is for testing only, changes made here DO NOT affect your production data.",
+      "variant": "danger",
+      "sticky": true
+    }]
   },
   "local": {
     "latest": "2.63.0",
