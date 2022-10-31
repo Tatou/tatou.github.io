@@ -11,7 +11,7 @@
     "latest": "2.63.0",
     "notices": [{
       "id": "2022-11-01",
-      "title": "Testing Environment:",
+      "title": "Dev Environment:",
       "message": "This environment is for testing only, changes made here DO NOT affect your production data.",
       "variant": "bad",
       "sticky": true
