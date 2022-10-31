@@ -13,7 +13,7 @@
       "id": "2022-11-01",
       "title": "Testing Environment:",
       "message": "This environment is for testing only, changes made here DO NOT affect your production data.",
-      "variant": "danger",
+      "variant": "bad",
       "sticky": true
     }]
   },
