@@ -1,6 +1,6 @@
 {
   "production": {
-    "latest": "2.83.0",
+    "latest": "2.84.0",
     "notices": []
   },
   "staging": {
@@ -18,7 +18,7 @@
     }]
   },
   "local": {
-    "latest": "2.83.0",
+    "latest": "2.84.0",
     "notices": []
   }
 }
