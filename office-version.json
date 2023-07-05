@@ -5,11 +5,7 @@
   },
   "staging": {
     "latest": "2.79.0",
-    "notices": [{
-      "id": "2023-11-05",
-      "title": "Client Access:",
-      "message": "From July 5 (tomorrow), jobs will only be available for clients to approve if they are marked as 'Ready'."
-    }]
+    "notices": []
   },
   "dev": {
     "latest": "2.63.0",
