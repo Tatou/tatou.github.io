@@ -18,7 +18,7 @@
     }]
   },
   "local": {
-    "maintenance": true,
+    "maintenance_mode": false,
     "latest": "2.84.0",
     "notices": []
   }
