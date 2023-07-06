@@ -18,6 +18,7 @@
     }]
   },
   "local": {
+    "maintenance": true,
     "latest": "2.84.0",
     "notices": []
   }
