@@ -1,11 +1,7 @@
 {
   "production": {
-    "latest": "2.84.0",
-    "notices": [{
-      "id": "2023-07-27",
-      "title": "Update in progress",
-      "variant": "info"
-    }]
+    "latest": "2.85.0",
+    "notices": []
   },
   "staging": {
     "latest": "2.79.0",
