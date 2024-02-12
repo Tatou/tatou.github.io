@@ -20,11 +20,6 @@
   "local": {
     "maintenance_mode": false,
     "latest": "2.84.0",
-    "notices": [{
-      "id": "2023-12-19",
-      "title": "Local Environment:",
-      "message": "This environment is for local development.",
-      "variant": "warning"
-    }]
+    "notices": []
   }
 }
