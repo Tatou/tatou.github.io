@@ -25,11 +25,6 @@
   "local": {
     "maintenance_mode": false,
     "latest": "2.84.0",
-    "notices": [{
-      "id": "2024-05-01",
-      "title": "Maintenance tomorrow 6-7am NZST:",
-      "message": "During this time services may be unavailable. If Tātou Field users need to download data, we recommend doing so tonight to avoid interruption.",
-      "variant": "info"
-    }]
+    "notices": []
   }
 }
