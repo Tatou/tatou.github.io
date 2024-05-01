@@ -1,12 +1,7 @@
 {
   "production": {
     "latest": "2.108.0",
-    "notices": [{
-      "id": "2024-05-02",
-      "title": "Maintenance today 6-7am NZST:",
-      "message": "During this time services may be unavailable. Thank you for your patience.",
-      "variant": "info"
-    }]
+    "notices": []
   },
   "staging": {
     "latest": "2.79.0",
