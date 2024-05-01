@@ -1,7 +1,12 @@
 {
   "production": {
     "latest": "2.108.0",
-    "notices": []
+    "notices": [{
+      "id": "2024-05-01",
+      "title": "Maintenance tomorrow 6-7am NZST:",
+      "message": "During this time services may be unavailable. If Tātou Field users need to download data, we recommend doing so tonight to avoid interruption.",
+      "variant": "info"
+    }]
   },
   "staging": {
     "latest": "2.79.0",
@@ -22,7 +27,7 @@
     "latest": "2.84.0",
     "notices": [{
       "id": "2024-05-01",
-      "title": "Maintenance tomorrow 6-7am:",
+      "title": "Maintenance tomorrow 6-7am NZST:",
       "message": "During this time services may be unavailable. If Tātou Field users need to download data, we recommend doing so tonight to avoid interruption.",
       "variant": "info"
     }]
