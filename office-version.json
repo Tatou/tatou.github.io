@@ -20,6 +20,11 @@
   "local": {
     "maintenance_mode": false,
     "latest": "2.84.0",
-    "notices": []
+    "notices": [{
+      "id": "2024-05-01",
+      "title": "Maintenance tomorrow at 6am:",
+      "message": "We have 60 minutes of maintenance scheduled for 6am tomorrow (2nd May). During this time services may be unavailable.",
+      "variant": "info"
+    }]
   }
 }
