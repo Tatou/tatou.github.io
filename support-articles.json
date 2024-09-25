@@ -1,7 +1,7 @@
 {
   "/dashboard/overview": "tatou-office-setup-navigation",
   "/dashboard/operations": null,
-  "/dashboard/performance": null,
+  "/dashboard/performance": "create-invoices-and-send-to-xero",
   "/messages": null,
   "/reports/custom": "how-to-custom-reports",
   "/reports": "report-types",
