@@ -22,7 +22,7 @@
   "/groups": "how-to-manage-groups",
   "/contractors": null,
   "/clients/(.*)/(.*)/(.*)": "how-to-add-blocks-or-blocksheets",
-  "/clients/(.*)/(.*)": "tatou-office-clients-tasks-roles",
+  "/clients/(.*)/(.*)": "locations-blocks-and-rows",
   "/clients/(.*)": "how-to-bulk-import-your-clients-locations-blocks-r",
   "/clients": "how-to-add-a-new-client",
   "/tasks/(.*)": "how-to-bulk-import-your-tasks",
