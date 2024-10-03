@@ -10,7 +10,7 @@
   "/pay-periods": "understanding-pay-periods",
   "/employees": "how-to-add-a-new-employee",
   "/my-profile": "how-to-logins-usernames-and-emails",
-  "/settings": null,
+  "/settings": "settings-menu",
   "/permission-groups/(.*)": "how-to-logins-usernames-and-emails",
   "/permission-groups": "how-to-logins-usernames-and-emails",
   "/integrations": "integrations",
