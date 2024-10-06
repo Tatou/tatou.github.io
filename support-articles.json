@@ -12,7 +12,7 @@
     "/employees": "how-to-add-a-new-employee",
     "/employees/(.*)": null,
     "/my-profile": "how-to-logins-usernames-and-emails",
-    "/settings": "settings-menu",
+    "/settings": "settings-page",
     "/permissions/(.*)": "creating-permissions-groups",
     "/permissions": "permissions-page",
     "/integrations": "integrations-page",
