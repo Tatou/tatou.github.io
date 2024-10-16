@@ -10,7 +10,7 @@
     "/pay-periods/(.*)": "understanding-pay-periods",
     "/pay-periods": "pay-periods-page",
     "/employees": "employees-page",
-    "/employees/(.*)": null,
+    "/employees/(.*)": "employee-profile-page",
     "/my-profile": "user-profile",
     "/settings": "settings-page",
     "/permissions/(.*)": "creating-permissions-groups",
