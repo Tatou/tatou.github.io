@@ -1,7 +1,12 @@
 {
   "production": {
     "latest": "2.126.0",
-    "notices": []
+    "notices": [{
+      "id": "2025-01-15",
+      "title": "Maintenance tomorrow 6-7am NZST:",
+      "message": "During this time services may be unavailable. If Tātou Field users need to download data, we recommend doing so tonight to avoid interruption.",
+      "variant": "info"
+    }]
   },
   "staging": {
     "latest": "2.79.0",
