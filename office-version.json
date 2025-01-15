@@ -2,7 +2,7 @@
   "production": {
     "latest": "2.126.0",
     "notices": [{
-      "id": "2025-01-15",
+      "id": "2025-01-16",
       "title": "Maintenance today 6-7am NZST:",
       "message": "During this time services may be unavailable. Thank you for your patience.",
       "variant": "warning"
