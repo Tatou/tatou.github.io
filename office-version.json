@@ -20,6 +20,11 @@
   "local": {
     "maintenance_mode": false,
     "latest": "2.84.0",
-    "notices": []
+    "notices": [{
+      "id": "2025-05-27",
+      "title": "Local Environment:",
+      "message": "Welcome to your local testing environment!",
+      "variant": "bad"
+    }]
   }
 }
