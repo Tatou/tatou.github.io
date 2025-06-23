@@ -40,6 +40,7 @@
     "/approve-jobs/(.*)": "reviewing-or-editing-jobs-in-the-office",
     "/approve-jobs": null,
     "/kiosk-scans": "kiosk-scans-in-the-office-app",
+    "/kiosk-timesheets-reconciliation": "new-feature-kiosk-timesheet-reconciliation",
     "/invoices/(.*)": "create-invoices-and-send-to-xero",
     "/invoices": "invoices-page",
     "/roles": "roles-rates-page",
