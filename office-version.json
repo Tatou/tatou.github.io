@@ -1,7 +1,12 @@
 {
   "production": {
     "latest": "2.150.0",
-    "notices": []
+    "notices": [{
+      "id": "2025-11-11",
+      "title": "Scheduled maintenance:",
+      "message": "This Thursday between 06:30-07:00 NZDT. During this period some services may be temporarily unavailable.",
+      "variant": "warning"
+    }]
   },
   "staging": {
     "latest": "2.150.0",
