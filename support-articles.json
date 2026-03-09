@@ -13,7 +13,7 @@
     "/employees/(.*)": "employee-profile-page",
     "/my-profile": "user-profile",
     "/settings": "settings-page",
-    "/permissions/(.*)": "creating-permissions-groups",
+    "/permissions/(.*)": "how-to-manage-permissions-groups",
     "/permissions": "permissions-page",
     "/integrations": "integrations-page",
     "/message-topics": null,
