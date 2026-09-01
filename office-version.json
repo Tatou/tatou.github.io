@@ -1,7 +1,12 @@
 {
   "production": {
     "latest": "2.168.0",
-    "notices": []
+    "notices": [{
+      "id": "2026-09-02",
+      "title": "Scheduled maintenance:",
+      "message": "This Thursday (tomorrow) between 06:00-07:00 NZST. During this period some services may be temporarily unavailable.",
+      "variant": "warning"
+    }]
   },
   "staging": {
     "latest": "2.150.0",
