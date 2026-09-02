@@ -50,5 +50,8 @@
     "/forms/(.*)": "how-to-use-forms",
     "/forms": "how-to-use-forms",
     "/planner": null,
-    "/attendance": "attendance-page"
+    "/attendance": "attendance-page",
+    "/earning-rules/(.*)/details": "earning-rules#Managing-your-Earning-Rules",
+    "/earning-rules/(.*)/employment-periods": "earning-rules#Assigning-Employees",
+    "/earning-rules": "earning-rules"
 }
