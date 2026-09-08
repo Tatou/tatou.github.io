@@ -1,12 +1,7 @@
 {
   "production": {
     "latest": "2.169.0",
-    "notices": [{
-      "id": "2026-09-08",
-      "title": "Scheduled maintenance:",
-      "message": "This Thursday (tomorrow) between 05:30-06:30 NZST. During this period some services may be temporarily unavailable.",
-      "variant": "warning"
-    }]
+    "notices": []
   },
   "staging": {
     "latest": "2.150.0",
